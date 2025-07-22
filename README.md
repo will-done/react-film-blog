@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# 🎬 React Film Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**React Film Blog** is a modern, minimalist blog application built for sharing personal film reviews and reflective articles. This project was developed to strengthen my React skills while creating a space for thoughtful and aesthetic content around cinema.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Purpose of the Project
 
-### `npm start`
+The goal of this project is to provide a platform where individual film reflections can be published and shared. At the same time, it served as a hands-on practice for learning how to build a blog-style application using modern frontend technologies.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Technologies Used
 
-### `npm test`
+- **React** – For building the user interface and component-based structure.
+- **React Router DOM** – To handle navigation and routing between pages.
+- **CSS** – For styling the layout with a clean and responsive design.
+- **React Hooks (useState, useEffect, etc.)** – For managing state and component lifecycle.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🧩 Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Listing all blog posts on the homepage
+- Creating a new blog post through a form interface
+- Viewing full blog content with title, image, and description on the detail page
+- Deleting blog posts
+- Page navigation using client-side routing
+- Clean and mobile-friendly design
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ✍️ Development Notes
 
-### `npm run eject`
+This application was developed as part of my personal learning journey with React. Throughout the project, I practiced using dynamic routing with `useNavigate` and `useParams`, structured reusable components, and focused on creating a single-page application experience.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎯 Target Audience
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is designed for film lovers who want to publish personal reviews, developers looking for a simple blog project built with React, and anyone interested in minimalist web interfaces.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
